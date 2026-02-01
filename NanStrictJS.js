@@ -1,4 +1,5 @@
-// No
+// No USE STRICT statemtn
+
 x = 10;
 console.log(x);
 
