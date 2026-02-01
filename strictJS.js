@@ -5,11 +5,11 @@
 "use strict"
 
 //have to declare X as a const varible because of use strict statment
-const x = 10; // ==> 
+const x = 10; // ==> Declared
 console.log(x);
 
 function test() {
-  y = 20;
+  const y = 20; // ==> Declared
 }
 test();
 console.log(y);
