@@ -2,6 +2,7 @@
 // Not Dclaring variables
 //====================
 
+//strict statement
 "use strict"
 
 //have to declare X as a const varible because of use strict statment
